@@ -1,0 +1,12 @@
+Statement,Action,Entity,Subject,min Temperature,max Temperature,Volume,Concentration,Equipment,Period,Speed,Condition,Method,Synonym,Note
+Prepare a heavy suspension of a pure culture in volume of 1.0 ml of 0.85 % saline.,prepare,suspension::culture::saline::,,,,1.0 ml::,'0.85 %::,,,,,,,
+Divide the suspension between two tubes (one test and one control).,divide,suspension::,,,,,,tubes::,,,one test and one control::,,,
+test and one control).,test,,,,,,,,,,,,,No equipment specified for test::
+Add 0.5 ml of 10 % sodium deoxycholate to the test suspension and 0.5 ml of 0.85 % saline to the control.,add,sodium deoxycholate::suspension::saline::,,,,0.5 ml::0.5 ml::,'10 %::0.85 %::,,,,,,,No equipment specified for add::No condition specified for add::No specified temperature for add::
+test suspension and 0.5 ml of 0.85 % saline to the control.,test,,,,,,,,,,,,,No equipment specified for test::
+mix both suspensions and incubate at 37°C for up to 15 min.,mix,suspensions::,,,,,,,15 min,,,,,No method specified for mix::No condition specified for mix::
+incubate at 37°C for up to 15 min.,incubate,,,,,,,,15 min,,,,,entity not found for action incubate::No specified temperature for incubate::No method specified for incubate::No equipment specified for incubate::No condition specified for incubate::No concentration specified for null::No speed specified for incubate::
+Examine for evidence of clearing of turbidity in the tube marked test compared with the saline control.,examine,saline::,,,,,,tube::,,,clearing of turbidity::,,,
+test compared with the saline control.,test,,,,,,,,,,,,,No equipment specified for test::
+View the tubes.,,,,,,,,,,,,,,need to add action View appeared in statement: View the tubes.
+Observe the tubes for changes.,,,,,,,,,,,,,,need to add action Observe appeared in statement: Observe the tubes for changes.

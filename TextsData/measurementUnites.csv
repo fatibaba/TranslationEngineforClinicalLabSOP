@@ -1,0 +1,39 @@
+,UO:0000051,concentration unit
+,UO:0000175,gram per liter
+,UO:0000208,gram per deciliter
+,UO:0000062,molar
+,UO:0000176,milligram per milliliter
+,UO:0000207,milliliter per liter
+,UO:0000063,millimolar
+,UO:0000163,mass percentage
+,UO:0000066,picomolar
+,UO:0000064,micromolar
+,UO:0000196,pH 
+,UO:0000008,meter
+,UO:0000016,millimeter
+,UO:0000018,nanometer
+mg,UO:0000022,milligram
+ng,UO:0000024,nanogram
+µg,UO:0000023,microgram
+,UO:0000181,enzyme unit
+,UO:0000041,nanomole
+,UO:0000039,micromole
+,UO:0000189,count
+,UO:0000005,temperature unit
+¡C,UO:0000027,degree celsius
+k,UO:0000012,kelvin
+d,UO:0000033,day
+h,UO:0000032,hour
+m,UO:0000031,minute
+,UO:0000035,month
+s,UO:0000010,second 
+w,UO:0000034,week
+y,UO:0000036,year
+,UO:0000095, volume unit
+,UO:0000097, cubic centimeter
+ml,UO:0000098, milliliter
+l,UO:0000099, liter
+,UO:0000100, deciliter
+µl,UO:0000101, microliter
+nl,UO:0000102, nanoliter
+,UO:0000103, picoliter

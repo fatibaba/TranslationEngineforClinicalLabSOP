@@ -1,0 +1,157 @@
+add,entity,entity,equipment,volume,condition,temperature,concentration
+adjust,subject,entity,condition,volume,concentration
+air dry,entity
+allow to polymerize,entity
+allow,entity,entity,condition,equipment
+align,entity
+aliquot,entity,equipment,volume
+apply power,entity
+aspirate,entity
+autoclave,entity
+bring volume,volume
+centrifuge,entity,speed,period,temperature
+check,entity
+chill,entity,equipment,condition,period
+clean,equipment
+coat,entity,entity,volume
+continue to pour,entity
+cool,entity,condition,temperature
+count,subject,equipment
+cut,entity
+digest,entity,volume
+dilute,entity,volume,method
+discard,entity
+disconnect,entity
+dissolve,entity,equipment,volume
+dry,entity,temperature,method
+encircle,entity,purpose,equipment
+engage,entity
+fill,equipment,entity,condition,volume
+filter,entity,equipment,volume,temperature,condition
+fixation,entity,concentration,period
+freeze,entity,period,temperature
+get,equipment
+grow,condition,temperature,method,entity,period
+heat,entity,method,period,temperature
+incubate,entity,temperature,method,equipment,condition,period,concentration,speed
+inoculate,equipment,volume,entity,method
+insert,entity
+introduce,entity,equipment
+invert,period,equipment,condition
+label,equipment,quantity
+leave,condition,period,entity,entity
+load,equipment,entity,entity,condition
+make,entity,equipment
+mark,entity
+measure,entity,subject,condition
+mix,entity,method,period,condition
+mount,entity,entity,condition
+neutralize,entity
+orient,entity
+overlay,entity
+pick,entity
+pipette off,entity
+place,entity,equipment,condition,period,temperature
+plate,entity,equipment,condition
+pull,entity
+pour off,entity,equipment
+pour,entity,equipment,entity,volume
+prepare,entity,volume,concentration
+put,entity,equipment,volume,temperature,method,period
+ramp,speed,temperature
+reconstitute,entity,volume,condition
+reduce,entity,condition
+remove,entity,condition,equipment
+resuspend,entity,equipment,temperature,volume
+rinse,entity,entity,condition
+rock,entity,period
+seat,entity
+seed,entity,equipment,condition
+select,entity
+set,equipment,condition
+set up,equipment,volume
+shake,entity,method,temperature,period,condition
+slide,entity
+snap,entity,equipment
+spin,speed,period,entity,temperature,equipment,condition
+spin down,speed,period,entity,temperature,equipment,condition,method
+split,entity,condition,equipment
+spool up,entity
+spread,entity,equipment
+squeeze,entity
+stand,entity
+stir,equipment,condition
+store,temperature,entity,period,entity,condition
+suspend,entity,equipment,volume,entity
+swirl,condition,period,entity,equipment
+take,measure,period
+take off,entity,condition,equipment
+thaw,entity,entity,condition,equipment,temperature,quantity
+transfer,entity,equipment
+triturate,entity,equipment,condition
+turn off,entity
+vortex,entity,condition,period
+warm,temperature,entity,period
+wash,entity,condition,method
+wrap,entity,entity,equipment
+begin electrophoresis,entity
+examine,subject
+calculate,subject
+convert,subject 
+disregard,subject
+enumerate,entity
+estimate,entity
+measure,subject
+notify,subject
+read,subject
+record,subject,entity
+send,subject,entity
+apply,entity,equipment
+calibrate, equipment
+cap,equipment
+circle,subject,equipment
+compare,subject
+connect,subject,equipment
+cover,equipment
+cut,entity,equipment
+decant,entity,equipment
+decolourise,entity,equipment
+detect,entity
+dip,subject,equipment,entity
+dispense,entity,equipment,volume
+distribute,entity,equipment
+divide,entity,equipment,condition
+drain,entity,equipment 
+draw,subject
+emulsify,entity
+examine,entity,equipment,condition
+fix,subject,equipment
+identify,subject
+ignite,equipment
+interpret,subject
+join,entity
+melt,entity,equipment,temperature 
+moisten,entity
+pierce,entity,equipment
+pull,entity,equipment
+rest,entity,period
+rotate,equipment
+rub,equipment,entity
+scan,subject,entity,equipment
+scrape,entity,equipment
+seal,equipment
+smear,entity,equipment
+soak,entity,volume
+spot,entity,equipment
+stab,entity
+stain,entity,equipment,method
+steam,entity,equipment
+sterilise,equipment,method
+stick,entity
+streak,entity,equipment
+test,equipment
+tilt,equipment
+touch,entity,equipment
+wait,period
+weigh,entity,equipment
+combine,entity,volume,concentration

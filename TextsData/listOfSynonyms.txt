@@ -1,0 +1,9 @@
+adjust,bring volume 
+align,orient
+label,mark
+leave,leave behind
+load,mount
+make,make up
+calibrate,calibration
+divide,split
+examine,view,observe
